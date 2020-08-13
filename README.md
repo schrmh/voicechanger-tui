@@ -1,5 +1,16 @@
-# Voice changer (Terminal User Interface)
-A simple voice changer with a dialog frontend that uses sox
+# Voice changer (Terminal User Interface)  
+
+## *A simple voice changer with a dialog frontend & that uses sox.*  
+
+
+
+### Usage: `./voicechanger-tui.sh`  
+Within the dialog you can e.g. navigate with arrow keys and select the voice modification via the return/enter keys.  
+You can change them on-the-fly.  
+You can exit the script with `Ctrl+C`.
+
+### Preview:  
+![Image showing the Terminal User Interface (TUI) of voicechanger-tui](/voicechanger-tui.png?raw=true "Image showing the Terminal User Interface (TUI) of voicechanger-tui")  
 
 TODO:
 - Add new dialog with a range box for a custom pitch
